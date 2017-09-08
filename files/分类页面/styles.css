@@ -17,7 +17,7 @@
   left:0px;
   top:0px;
   width:376px;
-  height:1140px;
+  height:984px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -35,13 +35,13 @@
   left:0px;
   top:0px;
   width:376px;
-  height:1140px;
+  height:984px;
   font-size:14px;
 }
 #u1313 {
   position:absolute;
   left:2px;
-  top:562px;
+  top:484px;
   width:372px;
   visibility:hidden;
   word-wrap:break-word;
@@ -1463,6 +1463,29 @@
   left:2px;
   top:5px;
   width:371px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1407_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:288px;
+  height:29px;
+}
+#u1407 {
+  position:absolute;
+  left:40px;
+  top:28px;
+  width:288px;
+  height:29px;
+  opacity:0.200000002980232;
+}
+#u1408 {
+  position:absolute;
+  left:2px;
+  top:6px;
+  width:284px;
   visibility:hidden;
   word-wrap:break-word;
 }
